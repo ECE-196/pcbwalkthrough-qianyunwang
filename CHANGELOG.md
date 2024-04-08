@@ -1,10 +1,10 @@
 # CHANGELOG
 
-## {DATE}
-### Contributors
+## 4/7/2024
+### Qianyun Wang
 ...
 
-### Added
+### Added three images for PCB walk through
 ...
 
 ### Changed
